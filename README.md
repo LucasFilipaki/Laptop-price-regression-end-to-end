@@ -1,4 +1,4 @@
-# Laptops-prices-regression-end-to-end
+# Laptop-price-regression-end-to-end
 
 ### Problem Definition
 Predict, based on many laptop features, a laptop price.
